@@ -65,23 +65,6 @@
                   </div>
                </div>
             </NuxtLink>
-
-            <NuxtLink to="/accounts"
-               class="group bg-gradient-to-br from-purple-500 to-pink-500 rounded-xl shadow-lg p-8 text-white transform hover:scale-105 transition">
-               <div class="flex items-center space-x-4">
-                  <div
-                     class="w-16 h-16 bg-white bg-opacity-20 rounded-lg flex items-center justify-center group-hover:bg-opacity-30 transition">
-                     <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                           d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z" />
-                     </svg>
-                  </div>
-                  <div>
-                     <h2 class="text-2xl font-bold mb-1">Account Management</h2>
-                     <p class="text-purple-100">View and reset student login credentials</p>
-                  </div>
-               </div>
-            </NuxtLink>
          </div>
       </main>
    </div>
